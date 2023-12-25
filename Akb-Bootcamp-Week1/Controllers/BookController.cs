@@ -1,8 +1,8 @@
-﻿using Akb_Bootcamp_Week1.Models;
-using Akb_Bootcamp_Week1.Services;
+﻿using Akb_Bootcamp_Week2.Models;
+using Akb_Bootcamp_Week2.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Akb_Bootcamp_Week1.Controllers
+namespace Akb_Bootcamp_Week2.Controllers
 {
 
 

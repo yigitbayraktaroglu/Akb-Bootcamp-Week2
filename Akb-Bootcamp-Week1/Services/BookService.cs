@@ -1,7 +1,7 @@
-﻿using Akb_Bootcamp_Week1.Extensions;
-using Akb_Bootcamp_Week1.Models;
+﻿using Akb_Bootcamp_Week2.Extensions;
+using Akb_Bootcamp_Week2.Models;
 
-namespace Akb_Bootcamp_Week1.Services
+namespace Akb_Bootcamp_Week2.Services
 {
     public class BookService
     {

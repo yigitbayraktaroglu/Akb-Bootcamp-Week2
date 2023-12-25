@@ -1,4 +1,4 @@
-﻿namespace Akb_Bootcamp_Week1.Models
+﻿namespace Akb_Bootcamp_Week2.Models
 {
     public class BookUpdateModel
     {

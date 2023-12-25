@@ -1,4 +1,4 @@
-﻿namespace Akb_Bootcamp_Week1.Extensions
+﻿namespace Akb_Bootcamp_Week2.Extensions
 {
     public static class StringExtensions
     {

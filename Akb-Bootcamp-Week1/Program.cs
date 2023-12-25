@@ -1,4 +1,4 @@
-using Akb_Bootcamp_Week1.Services;
+using Akb_Bootcamp_Week2.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
